@@ -4,6 +4,6 @@
   src:local(""), url("../fonts/NanumGothic.woff") format("woff");
 }
 
-body {
-	font-family: "Helvetica Neue", Helvetica, Arial, "NanumGothic",  sans-serif;
+body{
+	font-family: "Helvetica Neue", Helvetica, Arial, "NanumGothic", "Malgun gothic", sans-serif;
 }
